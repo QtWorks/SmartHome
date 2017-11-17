@@ -1,0 +1,4 @@
+#ifndef FLOOMAP_PASSIVE_H
+#define FLOOMAP_PASSIVE_H
+
+#endif // FLOOMAP_PASSIVE_H

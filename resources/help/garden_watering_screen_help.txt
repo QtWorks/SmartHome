@@ -1,0 +1,30 @@
+<p>Garden Watering Screen contains navigation bar, garden map and options for general sprinkler state.<\p>
+<p>
+<h3><font color="blue">Navigation bar</h3>
+Navigation bar is shown on the left side of the screen.<br>
+You can navigate to:
+<dl>
+<dd><img src=':/Smart home/home.png' width="26" height="14">Home Screen</dd>
+<dd><img src=':/Smart home/temperature.png' width="26" height="14">Temperature Screen</dd>
+<dd><img src=':/Smart home/light.png' width="26" height="14">Lighting Screen</dd>
+<dd><img src=':/Smart home/renewable_energy.png' width="26" height="14">Renewable Energy Screen</dd>
+<dd><img src=':/Smart home/gardening.png' width="26" height="14">Garden Watering Screen</dd>
+<dd><img src=':/Smart home/energy_trends.png' width="26" height="14">Spendings Screen</dd>
+<dd><img src=':/Smart home/home_appliance.png' width="26" height="14">Home Appliances Screen</dd>
+<dd><img src=':/Smart home/alarm.png' width="26" height="14">Alarm Screen</dd>
+<dd><img src=':/Smart home/camera.png' width="26" height="14">Surveillance Screen</dd>
+<dd><img src=':/Smart home/settings.png' width="26" height="14">Settings Screen</dd>
+</dl>
+<\p>
+<p>
+<h3><font color="blue">Garden map</h3>
+You can find garden map on the central part of the screen.
+Garden map contains sprinkler state information.
+You can turn sprinker on by click on the button <img src=':/Smart home/sprinkler2.png' width="30" height="20">. Also, you  can turn sprinkler off by click on the button <img src=':/Smart home/sprinkler1.png' width="30" height="20">.
+<\p>
+<\p>
+<br>
+<p>
+<h3><font color="blue">Options</h3>
+Options are on the right part of the screen. There you can turn all sprinklers on or off.
+<\p>

@@ -1,0 +1,82 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Smart home/alarm.png</file>
+        <file>Smart home/app_logo.png</file>
+        <file>Smart home/camera.png</file>
+        <file>Smart home/energy_trends.png</file>
+        <file>Smart home/floormap.png</file>
+        <file>Smart home/floormap_names.png</file>
+        <file>Smart home/floor-plan.png</file>
+        <file>Smart home/gardening.png</file>
+        <file>Smart home/home.png</file>
+        <file>Smart home/home_appliance.png</file>
+        <file>Smart home/light.png</file>
+        <file>Smart home/renewable_energy.png</file>
+        <file>Smart home/settings.png</file>
+        <file>Smart home/temperature.png</file>
+        <file>Smart home/weather_forecast.png</file>
+        <file>Smart home/wind-turbine.png</file>
+        <file>Smart home/alarm_note.png</file>
+        <file>Smart home/fire.png</file>
+        <file>Smart home/green-icon.png</file>
+        <file>Smart home/warning.png</file>
+        <file>Smart home/floormap_names_alarm.png</file>
+        <file>Smart home/ventilation.png</file>
+        <file>Smart home/no_ventilation.png</file>
+        <file>svgdialgauge/Thermometer/background.svg</file>
+        <file>svgdialgauge/Thermometer/needle.svg</file>
+        <file>svgdialgauge/Thermometer/needle_shadow.svg</file>
+        <file>svgbutton/Beryl/hovered.svg</file>
+        <file>svgbutton/Beryl/normal.svg</file>
+        <file>svgbutton/Beryl/pressed.svg</file>
+        <file>svgbutton/BerylSquare/hovered.svg</file>
+        <file>svgbutton/BerylSquare/normal.svg</file>
+        <file>svgbutton/BerylSquare/pressed.svg</file>
+        <file>svgbutton/MetallicBrush/hovered.svg</file>
+        <file>svgbutton/MetallicBrush/normal.svg</file>
+        <file>svgbutton/MetallicBrush/pressed.svg</file>
+        <file>svgslideswitch/Beryl/background.svg</file>
+        <file>svgslideswitch/Beryl/background_hover.svg</file>
+        <file>svgslideswitch/Beryl/knob_off.svg</file>
+        <file>svgslideswitch/Beryl/knob_on.svg</file>
+        <file>svgslideswitch/MetallicBrush/background.svg</file>
+        <file>svgslideswitch/MetallicBrush/background_hover.svg</file>
+        <file>svgslideswitch/MetallicBrush/knob_off.svg</file>
+        <file>svgslideswitch/MetallicBrush/knob_on.svg</file>
+        <file>catalog.css</file>
+        <file>Smart home/euro.jpg</file>
+        <file>Smart home/euro.png</file>
+        <file>Smart home/sprinkler.png</file>
+        <file>Smart home/garden.jpg</file>
+        <file>Smart home/sprinkler1.png</file>
+        <file>Smart home/sprinkler2.png</file>
+        <file>Smart home/renewable_energy.jpg</file>
+        <file>Smart home/wind.jpg</file>
+        <file>Smart home/solar_electricity.png</file>
+        <file>Smart home/solar_water.jpg</file>
+        <file>Smart home/solar.png</file>
+        <file>Smart home/wash.png</file>
+        <file>Smart home/router.png</file>
+        <file>Smart home/microwave.png</file>
+        <file>Smart home/oven.png</file>
+        <file>Smart home/TV.png</file>
+        <file>Smart home/computer.png</file>
+        <file>Smart home/sound.png</file>
+        <file>Smart home/fridge.png</file>
+        <file>Smart home/boiler1.png</file>
+        <file>help/alarm_screen_help.txt</file>
+        <file>help/garden_watering_screen_help.txt</file>
+        <file>help/home_appliances_screen_help.txt</file>
+        <file>help/home_screen_help.txt</file>
+        <file>help/lighting_screen_help.txt</file>
+        <file>help/notification_screen_help.txt</file>
+        <file>help/profiles_screen_help.txt</file>
+        <file>help/renewable_energy_screen_help.txt</file>
+        <file>help/spendings_screen_help.txt</file>
+        <file>help/temperature_screen_help.txt</file>
+        <file>help/video_surveillance_screen_help.txt</file>
+        <file>Smart home/dismiss.png</file>
+        <file>Smart home/alarm.wav</file>
+        <file>delArrow.png</file>
+    </qresource>
+</RCC>

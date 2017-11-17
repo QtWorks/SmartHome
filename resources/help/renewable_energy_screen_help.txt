@@ -1,0 +1,28 @@
+<p>Renewable Energy Screen contains navigation bar, green system in the house and information bar.<\p>
+<p>
+<h3><font color="blue">Navigation bar</h3>
+Navigation bar is shown on the left side of the screen.<br>
+You can navigate to:
+<dl>
+<dd><img src=':/Smart home/home.png' width="26" height="14">Home Screen</dd>
+<dd><img src=':/Smart home/temperature.png' width="26" height="14">Temperature Screen</dd>
+<dd><img src=':/Smart home/light.png' width="26" height="14">Lighting Screen</dd>
+<dd><img src=':/Smart home/renewable_energy.png' width="26" height="14">Renewable Energy Screen</dd>
+<dd><img src=':/Smart home/gardening.png' width="26" height="14">Garden Watering Screen</dd>
+<dd><img src=':/Smart home/energy_trends.png' width="26" height="14">Spendings Screen</dd>
+<dd><img src=':/Smart home/home_appliance.png' width="26" height="14">Home Appliances Screen</dd>
+<dd><img src=':/Smart home/alarm.png' width="26" height="14">Alarm Screen</dd>
+<dd><img src=':/Smart home/camera.png' width="26" height="14">Surveillance Screen</dd>
+<dd><img src=':/Smart home/settings.png' width="26" height="14">Settings Screen</dd>
+</dl>
+<\p>
+<p>
+<h3><font color="blue">Green system</h3>
+You can find green system map on the central part of the screen.
+There you can see all available types of green energy in the house..
+<\p>
+<br>
+<p>
+<h3><font color="blue">Informatin bar</h3>
+Information bar is on the right part of the screen. There you can see wind power, solar electricity and solar water heating production.
+<\p>

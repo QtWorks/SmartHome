@@ -1,0 +1,31 @@
+<p>Profiles Screen contains navigation bar and options bar.<\p>
+
+<h3><font color="blue">Navigation bar</h3>
+Navigation bar is shown on the left side of the screen.<br>
+You can navigate to:
+<dl>
+<dd><img src=':/Smart home/home.png' width="26" height="14">Home Screen</dd>
+<dd><img src=':/Smart home/temperature.png' width="26" height="14">Temperature Screen</dd>
+<dd><img src=':/Smart home/light.png' width="26" height="14">Lighting Screen</dd>
+<dd><img src=':/Smart home/renewable_energy.png' width="26" height="14">Renewable Energy Screen</dd>
+<dd><img src=':/Smart home/gardening.png' width="26" height="14">Garden Watering Screen</dd>
+<dd><img src=':/Smart home/energy_trends.png' width="26" height="14">Spendings Screen</dd>
+<dd><img src=':/Smart home/home_appliance.png' width="26" height="14">Home Appliances Screen</dd>
+<dd><img src=':/Smart home/alarm.png' width="26" height="14">Alarm Screen</dd>
+<dd><img src=':/Smart home/camera.png' width="26" height="14">Surveillance Screen</dd>
+<dd><img src=':/Smart home/settings.png' width="26" height="14">Settings Screen</dd>
+</dl>
+<\p>
+<h3><font color="blue">Options bar</h3>
+<p>Options bar contains profile, workday, weekend and vacation tab.<\p>
+<p>
+<h4><font color="blue">Profile tab</h4>
+Here you can change active profile from weekly(standard) and vacation profile.<br>
+<h4><font color="blue">Workday tab</h4>
+Here you can edit sprinklers and jalousie state. These states will be active during workdays if profile is weekly(standard).<br>
+<h4><font color="blue">Weekend tab</h4>
+Here you can edit sprinklers and jalousie state. These states will be active during weekend if profile is weekly(standard).<br>
+<h4><font color="blue">Weekend tab</h4>
+Here you can edit sprinklers state. These states will be active if profile is vacation (during weekdays and weekend).<br>
+
+
